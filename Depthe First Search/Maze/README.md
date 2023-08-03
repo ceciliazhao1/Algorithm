@@ -1,11 +1,10 @@
 Design
 
-![image](https://user-images.githubusercontent.com/93315926/194803849-7c4c723f-81a1-48ef-b068-12dd25496823.png)
 
 Step 1: Manual process to demonstrate concepts
 
 Step 1.1: Clear Route (Street, Highway)
-
+![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/maze.jpeg)
 Step 1.2: Unclear Route (Hotel, Hospital)
 
 ```
@@ -72,6 +71,6 @@ destination = [4, 4]
 # Call the function and print the result
 print(hasPath(maze, start, destination))  # Output: True
 ```
-  
-![image](https://user-images.githubusercontent.com/93315926/194799644-6b303972-e90e-4fc4-821b-0b26e2df9a6d.png)
 
+![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/1.png)
+![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/2.png)
