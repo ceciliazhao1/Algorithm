@@ -4,10 +4,10 @@ Design
 Step 1: Manual process to demonstrate concepts
 
 Step 1.1: Clear Route (Street, Highway)
-![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/3.jpeg)
+![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/3.png)
 ![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/maze.jpeg)
 Step 1.2: Unclear Route (Hotel, Hospital)
-![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/4.jpeg)
+![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/4.png)
 ```
 Approach : Depth First Search
 We can view the given search space in the form of a tree.
