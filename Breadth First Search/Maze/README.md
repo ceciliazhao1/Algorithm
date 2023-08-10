@@ -4,7 +4,7 @@ Design
 Step 1: Manual process to demonstrate concepts
 
 
-![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/4.png)
+![image](https://github.com/ceciliazhao1/Algorithm/tree/main/Breadth%20First%20Search/Maze/img/4.png)
 
 
 Step 2: Implement
@@ -56,5 +56,5 @@ print(result)  # Output: True
 
 ```
 
-![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/1.png)
+![image](https://github.com/ceciliazhao1/Algorithm/tree/main/Breadth%20First%20Search/Maze/img/1.png)
 ![image](https://github.com/ceciliazhao1/Algorithm/blob/main/Depthe%20First%20Search/Maze/img/2.png)
